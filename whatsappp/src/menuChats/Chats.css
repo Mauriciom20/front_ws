@@ -1,0 +1,8 @@
+.Chats{
+    display: flex;
+    flex-direction: column;
+    width: 25vw;
+    height: 100vh;
+    overflow-y: auto;
+    background-color: #111b21;
+}
